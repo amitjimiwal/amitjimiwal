@@ -1,4 +1,4 @@
-### Hola👋, I'm Amit Jimiwal 
+#Hola👋, I'm Amit Jimiwal 
 # 💫 About Me:
 🔭 I’m CSE Undergrad at Maharaja Surajmal Institute of Technology.<br>🌱 I’m currently learning Web developmet, Java.<br>👯 I’m looking to collaborate on Front-end projects.<br>🤝 I’m looking for help with Open-source Contribution.<br>📫 How to reach me: Check Social Links Below.<br><br>
 
