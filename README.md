@@ -1,4 +1,7 @@
-# Hola👋, I'm Amit Jimiwal 
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Amit Jimiwal</h1>
 # 💫 About Me:
 🔭 I’m CSE Undergrad at Maharaja Surajmal Institute of Technology.<br>🌱 I’m currently learning Web developmet, Java.<br>👯 I’m looking to collaborate on Front-end projects.<br>🤝 I’m looking for help with Open-source Contribution.<br>📫 How to reach me: Check Social Links Below.<br><br>
 
