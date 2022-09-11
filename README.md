@@ -5,7 +5,7 @@
          
          
 # 💫 About Me:
-🔭 I’m CSE Undergrad at Maharaja Surajmal Institute of Technology.<br>🌱 I’m currently learning Web developmet, Java.<br>👯 I’m looking to collaborate on Frontend projects.<br>🤝 I’m looking for help with Open source Contribution.<br>📫 How to reach me: Check Social Links Below.<br><br>
+🔭 I’m CSE Undergrad at <a href="https://www.msit.in/" target="_blank"> Maharaja Surajmal Institute of Technology. </a> <br>🌱 I’m currently learning Web developmet, Java.<br>👯 I’m looking to collaborate on Frontend projects.<br>🤝 I’m looking for help with Open source Contribution.<br>📫 How to reach me: Check Social Links Below.<br><br>
 
 
 ## 🌐 Socials:
