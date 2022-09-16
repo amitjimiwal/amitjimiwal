@@ -5,7 +5,7 @@
          
          
 # 💫 About Me:
-🔭 Pursuing B.tech in Computer Science from <a href="https://www.msit.in/" target="_blank"> Maharaja Surajmal Institute of Technology. </a> <br>🌱 Currently learning Web developmet, Java.<br>👯 Looking to collaborate on Frontend projects.<br>🤝 Looking for help with Open source Contribution.<br>📫 How to reach me: Check Social Links Below.<br><br>
+🌱 Currently learning Web developmet, Java.<br>🔭 Pursuing B.tech in Computer Science from <a href="https://www.msit.in/" target="_blank"> Maharaja Surajmal Institute of Technology. </a><br>🤝 Looking for help with Open source Contribution.<br>📫 How to reach me: Check Social Links Below.<br><br>
 
 
 ## 🌐 Socials:
