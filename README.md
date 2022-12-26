@@ -5,7 +5,7 @@
          
          
 # 💫 About Me:
-🌱 Currently learning Web developmet, Java.<br>🔭 Pursuing B.tech in Computer Science from <a href="https://www.msit.in/" target="_blank"> Maharaja Surajmal Institute of Technology. </a>
+🌱 Currently learning Backend.<br>🔭 Pursuing B.tech in Computer Science from <a href="https://www.msit.in/" target="_blank"> Maharaja Surajmal Institute of Technology. </a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_amit.jimiwal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-jimiwal-37576721a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/AmitJimiwal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/drunken_devv) 
