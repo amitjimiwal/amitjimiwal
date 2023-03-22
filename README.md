@@ -1,27 +1,32 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Amit Jimiwal</h1>
-         
-         
-# 💫 About Me:
-🌱 Currently learning Backend.<br>🔭 Pursuing B.tech in Computer Science from <a href="https://www.msit.in/" target="_blank"> Maharaja Surajmal Institute of Technology. </a>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_amit.jimiwal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-jimiwal-37576721a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/AmitJimiwal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/drunken_devv) 
+<!-- Header  -->
+<h1 align="center">
+  Hello!~ 
+  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
+   I'm Amit Jimiwal  
+</h1>
 
 
-# 💻 Tech Stack:
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<hr>
- <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Github Activeness</b></i></p>
-  <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitjimiwal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mau" /></p>
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amitjimiwal&show_icons=true&locale=en&theme=chartreuse-dark" alt="mau" width="410" />
+<!-- Social Media Links-->
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="mailto:amitjimiwal45@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail" width="42" height="42"/></a>
+  <a href="https://www.linkedin.com/in/amit-jimiwal-37576721a/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/linkedin.png"  alt="LinkedIn" width="42" height="42"/></a>
+  <a href="https://twitter.com/drunken_devv" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter" width="42" height="42"/></a>
+  <a href="https://profile-card-amitjimiwal.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/internet.png"  alt="Website" width="42" height="42"/></a>
+  <a href="https://github.com/amitjimiwal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub" width="42" height="42"/></a>
 </p>
-<br><br><br><br><br>
-  
-<hr>
+
+
+<!-- Stats-->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amitjimiwal&label=Profile%20views&color=6765D1&style=flat" alt="amitjimiwal" width="140" height="25" /> </p>
+
+
+<p align="center"><img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=amitjimiwal&theme=tokyonight" alt="amit jimiwal" /></p>
+
+
+<br>                                                                                                                                                                    
+
 
