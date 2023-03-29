@@ -21,7 +21,7 @@
 
 <!-- Stats-->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=amitjimiwal&label=Profile%20views&color=6765D1&style=flat" alt="amitjimiwal" width="140" height="25" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=amitjimiwal&label=Profile%20views&color=6765D1&style=flat" alt="amitjimiwal" width="140" height="25" /> </p> -->
 
 
 <p align="center"><img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=amitjimiwal&theme=tokyonight" alt="amit jimiwal" /></p>
