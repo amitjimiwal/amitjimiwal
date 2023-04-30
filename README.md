@@ -26,6 +26,9 @@
 
 <p align="center"><img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=amitjimiwal&theme=tokyonight" alt="amit jimiwal" /></p>
 
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=amitjimiwal&theme=dark&hide_border=true&border_radius=6.1&background=45%2C100606%2C0306EB)](https://git.io/streak-stats) -->
+
+
 
 <br>                                                                                                                                                                    
 
