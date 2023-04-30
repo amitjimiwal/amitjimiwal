@@ -34,11 +34,9 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=amitjimiwal&theme=gruvbox&hide_border=true" />
   </a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amitjimiwal&label=Profile%20views&color=0e75b6&style=flat" alt="monalikakapoor" />
 <br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitjimiwal&theme=dark&hide_border=true&border_radius=6.1&background=45%2C100606%2C0306EB&show_icons=true&locale=en&layout=compact" alt="amitjimiwal" /></p>
 
-
-
-
-<br>                                                                                                                                                                    
 
 
