@@ -33,10 +33,10 @@
 <br>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitjimiwal&theme=dark&hide_border=true&border_radius=6.1&background=45%2C100606%2C0306EB&show_icons=true&locale=en&layout=compact" alt="amitjimiwal" /></p> --!>
 
-<!-- <p align="left">
+<p align="left">
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=amitjimiwal&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=amitjimiwal&theme=gruvbox&hide_border=true" />
   </a>
-</p> --!>
+</p>
 
