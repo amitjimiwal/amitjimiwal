@@ -43,5 +43,5 @@
 </p> -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amitjimiwal&theme=transparent&border_radius=5)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amitjimiwal&theme=transparent&border_radius=5)](https://git.io/streak-stats) -->
 
