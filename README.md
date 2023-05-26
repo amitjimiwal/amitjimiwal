@@ -29,7 +29,7 @@
 <!-- <p align="center"><img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=amitjimiwal&theme=tokyonight" alt="amit jimiwal" /></p> -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=amitjimiwal&theme=dark&hide_border=true&border_radius=6.1&background=45%2C100606%2C0306EB)](https://git.io/streak-stats) -->
-<!-- <br/>
+ <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amitjimiwal&label=Profile%20views&color=0e75b6&style=flat" alt="monalikakapoor" />
 <br>
@@ -40,7 +40,7 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=amitjimiwal&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=amitjimiwal&theme=gruvbox&hide_border=true" />
   </a>
-</p> -->
+</p>
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amitjimiwal&theme=transparent&border_radius=5)](https://git.io/streak-stats) -->
