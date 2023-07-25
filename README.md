@@ -14,7 +14,7 @@
   <a href="mailto:amitjimiwal45@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail" width="42" height="42"/></a>
   <a href="https://www.linkedin.com/in/amit-jimiwal-37576721a/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/linkedin.png"  alt="LinkedIn" width="42" height="42"/></a>
   <a href="https://twitter.com/drunken_devv" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter" width="42" height="42"/></a>
-  <a href="https://profile-card-amitjimiwal.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/internet.png"  alt="Website" width="42" height="42"/></a>
+  <a href="https://notamit-dev.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/internet.png"  alt="Website" width="42" height="42"/></a>
   <a href="https://github.com/amitjimiwal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub" width="42" height="42"/></a>
   <a href="https://medium.com/@amitjimiwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amitjimiwal" height="30" width="40" /></a>
 </p>
