@@ -3,6 +3,7 @@
 >become your own hero, then you can be a hero to others, and eventually the rest of the world.
 
 >2026
+* **[ter-e-mail](https://github.com/amitjimiwal/ter-e-mail)** – ter-e-mail: send emails from terminal
 
 building .... 
 
